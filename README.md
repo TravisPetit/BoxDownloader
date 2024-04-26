@@ -13,4 +13,5 @@ Credit for most of the script goes to [Rui Barbosa](https://forum.box.com/u/rbar
 
 # Requirements
 * Python 3
-* boxsdk==3.9.2
+* boxsdk>=3.9.2
+* boxsdk[jwt]

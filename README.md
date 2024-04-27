@@ -7,7 +7,7 @@ E.g. to download all the files in https://app.box.com/s/rf6p81j3o507e8c5saywtlc1
 python3 download.py https://app.box.com/s/rf6p81j3o507e8c5saywtlc1p91f8po9
 ```
 
-Don't know how to create the config.json file? → Watch [this video](todo).
+Don't know how to create the config.json file? → Watch [this video](https://youtu.be/-0b7Ubf2ZP4?si=dOqkJjn4idCCAkh7).
 
 Credit for most of the script goes to [Rui Barbosa](https://forum.box.com/u/rbarbosa/summary).
 
